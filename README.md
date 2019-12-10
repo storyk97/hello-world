@@ -37,6 +37,11 @@ As Freddy Kruger has said:
 [How Freddy Krueger Went From Child Killer to MTV Rock Star](https://www.youtube.com/watch?v=F8Hm_9kRqAY)
 :girl::house::sleeping::zzz::man::rage::fork_and_knife::droplet::red_circle::girl::fearful::x::man::simple_smile:
 
+As Freddy Krueger always said
+<You are all my children now!
+
+
+
         
         
         
