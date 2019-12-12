@@ -7,7 +7,7 @@ So I really really hope this works!
 
 
 
-12/9/19 Markdown Lab Assignment<br><br><br>
+12/9/19 Markdown Lab Assignment<br><br>
 
 ####<Freddy Krueger>####
   **Freddy Kills children in their sleep!**
@@ -39,10 +39,15 @@ As Freddy Kruger has said:
 
 As Freddy Krueger always said
 <You are all my children now!<br><br><br>
-First Header | Second Header
------------- | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+Freddy              Pennywise
+--------------------|-------------------
+Better Backstory     It can scare children
+Burnt Skin/KnifeHand during the day unlike
+Great catchphrases   freddy
+                     Disturbing
+                   
+                
+
 
 
 
