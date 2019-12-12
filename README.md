@@ -51,18 +51,22 @@ As Freddy Krueger always said
  [ ] Wes Craven's New Nightmare<br>
  [ ] Freddy vs. Jason<br>
  
- | Freddy        | PennyWise          |   |
+ | Freddy        | PennyWise          |   
 | ------------- |:-------------:| -----:|
-| Better Backstory      | IT can scare during the day unlike Freddy| $1600 |
-| Burnt Skin/KnifeHand      | Disturbing      |   $12 |
-| Great catchphrases | Clown      |    $1 |
+| Better Backstory      | IT can scare during the day unlike Freddy| 
+| Burnt Skin/KnifeHand      | Disturbing      |  
+| Great catchphrases | Clown      |   
  
  \!Nightmare on Elm Street\!<br>
+  @manicsparkle
  
  ```javascript
 function test() {
  console.log("How's this for a wet dream?");
 }
-```<br>
- @manicsparkle
+``
+ 
+ 
+ 
+
 
