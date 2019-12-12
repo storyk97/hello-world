@@ -48,6 +48,10 @@ Great catchphrases   freddy
                      Clown
                      
                      
+                     ![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](https://upload.wikimedia.org/wikipedia/en/e/eb/Freddy_Krueger_%28Robert_Englund%29.jpg)
+                     
+                     
                      
                      
                
