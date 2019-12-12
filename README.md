@@ -31,7 +31,7 @@ So I really really hope this works!
 9. A Nightmare on Elm Street
 * April 30, 2010<br><br><br>
 As Freddy Kruger has said:
-    >Why are you screaming? I haven't even caught you yet.<br>
+    <Why are you screaming? I haven't even caught you yet.<br>
  ![](https://en.wikipedia.org/wiki/File:Freddy_Krueger_(Robert_Englund).jpg)
 
 [![Freddy Video](freddy.png)](https://youtu.be/F8Hm_9kRqAY)<br><br><br>
@@ -51,11 +51,11 @@ As Freddy Krueger always said
  [ ] Wes Craven's New Nightmare<br>
  [ ] Freddy vs. Jason<br>
  
- | Freddy        | PennyWise          |   
+ | Freddy        | PennyWise          |  Test| 
 | ------------- |:-------------:| -----:|
-| Better Backstory      | IT can scare during the day unlike Freddy| 
+| Better Backstory      | IT can scare during the day unlike Freddy| Test|
 | Burnt Skin/KnifeHand      | Disturbing      |  
-| Great catchphrases | Clown      |   
+| Great catchphrases | Clown      |   test|
  
  \!Nightmare on Elm Street\!<br>
   @manicsparkle
