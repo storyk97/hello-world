@@ -29,13 +29,13 @@ So I really really hope this works!
           8. Freddy vs. Jason
           *August 15, 2003
           9. A Nightmare on Elm Street
-          *April 30, 2010
+          *April 30, 2010<br><br><br>
 As Freddy Kruger has said:
     >Why are you screaming? I haven't even caught you yet.
  ![Freddy Krueger](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwism8D026vmAhVReawKHfDVA6cQjRx6BAgBEAQ&url=https%3A%2F%2Fgointothestory.blcklst.com%2Fgreat-character-freddy-krueger-a-nightmare-on-elm-street-2d02bfa9107b&psig=AOvVaw1cgyK4Lt-C3rz86vLN9zHK&ust=1576089170185889)
 ![Freddy Krueger](/https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiY6IyKzKnmAhXDFjQIHS35AuMQjRx6BAgBEAQ&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFreddy_Krueger&psig=AOvVaw35zs_Rs92zT6euvR_KZ6AO&ust=1576016201098000)
-[How Freddy Krueger Went From Child Killer to MTV Rock Star](https://www.youtube.com/watch?v=F8Hm_9kRqAY)
-:girl::house::sleeping::zzz::man::rage::fork_and_knife::droplet::red_circle::girl::fearful::x::man::simple_smile:
+[How Freddy Krueger Went From Child Killer to MTV Rock Star](https://www.youtube.com/watch?v=F8Hm_9kRqAY)<br><br><br>
+:girl::house::sleeping::zzz::man::rage::fork_and_knife::red_circle::girl::fearful::x::man::simple_smile:<br><br><br>
 
 As Freddy Krueger always said
 <You are all my children now!
