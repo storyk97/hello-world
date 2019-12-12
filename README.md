@@ -13,7 +13,7 @@ So I really really hope this works!
   **Freddy Kills children in their sleep!**
   ##<List of Freddy Krueger Movies##
 1. A Nightmare on Elm Street
-*November 9, 1984
+* November 9, 1984
 2. A Nightmare on Elm Street 2: Freddy's Revenge
 *November 1, 1985
 3. A Nightmare on Elm Street 3: Dream Warriors
