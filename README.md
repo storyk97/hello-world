@@ -62,9 +62,9 @@ Great catchphrases   freddy
  
  | Freddy        | PennyWise          |   |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Better Backstory      | IT can scare during the day unlike Freddy| $1600 |
+| Burnt Skin/KnifeHand      | Disturbing      |   $12 |
+| Great catchphrases | Clown      |    $1 |
  
  
                      
