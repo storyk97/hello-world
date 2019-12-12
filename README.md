@@ -38,7 +38,7 @@ As Freddy Kruger has said:
 :girl::house::sleeping::zzz::man::rage::fork_and_knife::red_circle::girl::fearful::x::man::satisfied:<br><br><br>
 
 As Freddy Krueger always said
-<You are all my children now!<br><br><br>                     
+>You are all my children now!<br><br><br>                     
                   
  ![Freddy](https://upload.wikimedia.org/wikipedia/en/e/eb/Freddy_Krueger_%28Robert_Englund%29.jpg)
  
@@ -51,11 +51,11 @@ As Freddy Krueger always said
  [ ] Wes Craven's New Nightmare<br>
  [ ] Freddy vs. Jason<br>
  
- | Freddy        | PennyWise          |  Test| 
+ | Freddy        | Pennywise          |  Jason| 
 | ------------- |:-------------:| -----:|
-| Better Backstory      | IT can scare during the day unlike Freddy| Test|
-| Burnt Skin/KnifeHand      | Disturbing      |  
-| Great catchphrases | Clown      |   test|
+| Better Backstory      | IT can scare during the day unlike Freddy|  indestructible, machete-wielding mass murderer|
+| Burnt Skin/KnifeHand      | Disturbing      |Iconic 80's horror movie killer  
+| Great catchphrases | Clown      |   Hates summer Camps|
  
  \!Nightmare on Elm Street\!<br>
   @manicsparkle
