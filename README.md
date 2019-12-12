@@ -9,7 +9,7 @@ So I really really hope this works!
 
 12/9/19 Markdown Lab Assignment<br><br>
 
-####<Freddy Krueger>
+#Freddy Krueger
   **Freddy Kills children in their sleep!**
   ##<List of Freddy Krueger Movies##
 1. A Nightmare on Elm Street
