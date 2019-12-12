@@ -38,17 +38,8 @@ As Freddy Kruger has said:
 :girl::house::sleeping::zzz::man::rage::fork_and_knife::red_circle::girl::fearful::x::man::satisfied:<br><br><br>
 
 As Freddy Krueger always said
-<You are all my children now!<br><br><br>
-Freddy              Pennywise
---------------------|-------------------
-Better Backstory     It can scare children
-Burnt Skin/KnifeHand during the day unlike
-Great catchphrases   freddy
-                     Disturbing
-                     Clown
-                     
-                     
-                
+<You are all my children now!<br><br><br>                     
+                  
  ![Freddy](https://upload.wikimedia.org/wikipedia/en/e/eb/Freddy_Krueger_%28Robert_Englund%29.jpg)
  
  #### Nightmare on Elm Street Movies that I have seen<br>
@@ -66,7 +57,13 @@ Great catchphrases   freddy
 | Burnt Skin/KnifeHand      | Disturbing      |   $12 |
 | Great catchphrases | Clown      |    $1 |
  
+ \*Nightmare on Elm Street\*<br>
  
+ ```javascript
+function test() {
+ console.log("look ma’, no spaces");
+}
+```
                      
                      
                      
