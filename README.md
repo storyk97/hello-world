@@ -12,23 +12,23 @@ So I really really hope this works!
 ####<Freddy Krueger>####
   **Freddy Kills children in their sleep!**
   ##<List of Freddy Krueger Movies##
-          1. A Nightmare on Elm Street
+          1.A Nightmare on Elm Street
           *November 9, 1984
-          2. A Nightmare on Elm Street 2: Freddy's Revenge
+          2.A Nightmare on Elm Street 2: Freddy's Revenge
           *November 1, 1985
-          3. A Nightmare on Elm Street 3: Dream Warriors
+          3.A Nightmare on Elm Street 3: Dream Warriors
           *February 27, 1987
-          4. A Nightmare on Elm Street 4: The Dream Master
+          4.A Nightmare on Elm Street 4: The Dream Master
           *August 19, 1988
-          5. A Nightmare on Elm Street 5: The Dream Child
+          5.A Nightmare on Elm Street 5: The Dream Child
           *August 11, 1989
-          6. Freddy's Dead: The Final Nightmare
+          6.Freddy's Dead: The Final Nightmare
           *September 13, 1991
-          7. Wes Craven's New Nightmare
+          7.Wes Craven's New Nightmare
           *October 14, 1994
-          8. Freddy vs. Jason
+          8.Freddy vs. Jason
           *August 15, 2003
-          9. A Nightmare on Elm Street
+          9.A Nightmare on Elm Street
           *April 30, 2010<br><br><br>
 As Freddy Kruger has said:
     >Why are you screaming? I haven't even caught you yet.<br>
