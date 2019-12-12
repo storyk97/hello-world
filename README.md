@@ -32,7 +32,7 @@ So I really really hope this works!
           *April 30, 2010<br><br><br>
 As Freddy Kruger has said:
     >Why are you screaming? I haven't even caught you yet.<br>
- ![](freddy.png)
+ ![](https://en.wikipedia.org/wiki/File:Freddy_Krueger_(Robert_Englund).jpg)
 
 [![Freddy Video](freddy.png)](https://youtu.be/F8Hm_9kRqAY)<br><br><br>
 :girl::house::sleeping::zzz::man::rage::fork_and_knife::red_circle::girl::fearful::x::man::satisfied:<br><br><br>
