@@ -52,13 +52,19 @@ Great catchphrases   freddy
  ![Freddy](https://upload.wikimedia.org/wikipedia/en/e/eb/Freddy_Krueger_%28Robert_Englund%29.jpg)
  
  #### Nightmare on Elm Street Movies that I have seen<br>
- 1. [x]A Nightmare on Elm Street(1984 and 2010)<br>
- 2. [x] A Nightmare on Elm Street 2: Freddy's Revenge<br>
- 3. [x] A Nightmare on Elm Street 3: Dream Warriors<br>
- 4. [x] A Nightmare on Elm Street 5: The Dream Child<br>
- 5. [x] Freddy's Dead: The Final Nightmare<br>
- 6. [ ] Wes Craven's New Nightmare<br>
- 7. [ ] Freddy vs. Jason<br>
+ [x]A Nightmare on Elm Street(1984 and 2010)<br>
+ [x]A Nightmare on Elm Street 2: Freddy's Revenge<br>
+ [x] A Nightmare on Elm Street 3: Dream Warriors<br>
+ [x] A Nightmare on Elm Street 5: The Dream Child<br>
+ [x] Freddy's Dead: The Final Nightmare<br>
+ [ ] Wes Craven's New Nightmare<br>
+ [ ] Freddy vs. Jason<br>
+ 
+ | Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
  
  
                      
