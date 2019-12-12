@@ -31,7 +31,7 @@ So I really really hope this works!
 9. A Nightmare on Elm Street
 * April 30, 2010<br><br><br>
 As Freddy Kruger has said:
-    <Why are you screaming? I haven't even caught you yet.<br>
+    >Why are you screaming? I haven't even caught you yet.<br>
  ![](https://en.wikipedia.org/wiki/File:Freddy_Krueger_(Robert_Englund).jpg)
 
 [![Freddy Video](freddy.png)](https://youtu.be/F8Hm_9kRqAY)<br><br><br>
@@ -53,7 +53,7 @@ As Freddy Krueger always said
  
  | Freddy        | Pennywise          |  Jason| 
 | ------------- |:-------------:| -----:|
-| Better Backstory      | IT can scare during the day unlike Freddy|  indestructible, machete-wielding mass murderer|
+| Better Backstory      | IT can scare during the day|  indestructible, machete-wielding mass murderer|
 | Burnt Skin/KnifeHand      | Disturbing      |Iconic 80's horror movie killer  
 | Great catchphrases | Clown      |   Hates summer Camps|
  
@@ -62,7 +62,7 @@ As Freddy Krueger always said
  
  ```javascript
 function test() {
- console.log("How's this for a wet dream?");
+ console.log("How's this for a wet dream?-Freddy Kruger");
 }
 ``
  
