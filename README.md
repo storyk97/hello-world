@@ -57,39 +57,12 @@ As Freddy Krueger always said
 | Burnt Skin/KnifeHand      | Disturbing      |   $12 |
 | Great catchphrases | Clown      |    $1 |
  
- \*Nightmare on Elm Street\*<br>
+ \!Nightmare on Elm Street\!<br>
  
  ```javascript
 function test() {
- console.log("look ma’, no spaces");
+ console.log("How's this for a wet dream?");
 }
-```
-                     
-                     
-                     
-                     
-               
-
-                     
-                     
-                     
-  
-                   
-                
-
-
-
-
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-@manicsparkle
+```<br>
+ @manicsparkle
 
